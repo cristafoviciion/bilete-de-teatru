@@ -1,4 +1,4 @@
-# bilete-de-teatru
-Acest site o sa ajute persoanele ce sunt entuziasmate de spectacole. Clientii o sa poate sa procure cu usurinta biletele!
+# xstore.md
+Acest site este asemanator cu un magazin online de vinzari, tot ceia ce tine de calculatoare accesorii, fesktopuri etc
 ## Echipa
-Cristafovici Ion | AAW - 221
+Cristafovici Ion, Faureanu Dumitru | AAW - 221
